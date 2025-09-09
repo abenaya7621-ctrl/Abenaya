@@ -1,0 +1,43 @@
+1.public class d1 {
+      public static void main(String[] args){
+        System.out.println("let's learn 'JAVA' together with selvi");
+    }
+}
+OUTPUT:
+let's learn 'JAVA' together with selvi
+
+2.public class d2 {
+      public static void main(String[] args){
+        System.out.println("If you want to shine like a \"Sun\",first burn like a \"Sun\".");
+    }
+}
+OUTPUT:
+If you want to shine like a "Sun",first burn like a "Sun".
+
+3.public class d3 {
+      public static void main(String[] args){
+        System.out.println("\\n");
+    }
+}
+OUTPUT:
+\n
+
+4.public class d4 {
+    public static void main(String[] args){
+        int num1=20;
+        int num2=10;
+        System.out.println(num1+" "+num2);
+    }
+}
+OUTPUT:
+20 10
+
+5.import java.util.*;
+    public class d5 {
+        public static void main(String[] args){
+            Scanner sc=new Scanner(System.in);
+            char character=sc.next().charAt(0);
+            System.out.println(character);
+        }
+}
+
